@@ -61,7 +61,7 @@
 
       <!-- Messages Dropdown Menu -->
       <li class="nav-item dropdown">
-        <a class="nav-link btn btn-block btn-outline-info" href="#">
+        <a class="nav-link btn btn-block btn-outline-info" href="/tambah">
           Tambah Artikel
           {{-- <button type="button" class="btn btn-block btn-outline-info">Info</button> --}}
           <i class="far"></i>

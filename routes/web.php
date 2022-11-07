@@ -60,3 +60,7 @@ Route::get('/tema/traveling', function () {
 Route::get('/tags', function () {
     return view('tags');
 });
+
+Route::get('/tambah', function () {
+    return view('tambah-artikel');
+});
