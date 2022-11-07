@@ -47,5 +47,13 @@
         </div>
       </div>
     </a>
+    <a href="">
+      <div class="card text-bg-primary">
+        <h4 class="card-header"><p class="card-title">Lorem ipsum</p></h4>
+        <div class="card-body"><p class="card-text">dolor sit amet consectetur adipisicing elit. Quaerat quasi eaque sequi laboriosam, aliquid fugiat recusandae repellendus, quidem maiores accusantium voluptatem non cum, repellat eum consectetur facere officiis? Blanditiis, perferendis?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, ratione aperiam? Odit fuga incidunt facere explicabo quidem, voluptate voluptatem accusantium ipsum reiciendis repellat, corrupti, error aliquam. Consequuntur voluptatem aut corporis!</p>
+        </div>
+      </div>
+    </a>
 </div>
 @endsection
