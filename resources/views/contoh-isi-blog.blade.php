@@ -1,4 +1,4 @@
-@extends('layout.temp-blog')
+@extends('layout.usertemp-blog')
 
 @push('css')
     

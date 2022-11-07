@@ -59,6 +59,15 @@
         </div>
       </li>
 
+      <li class="nav-item dropdown">
+        <a class="nav-link btn btn-block btn-outline-primary mx-2" data-toggle="dropdown" href="#">
+          Login
+          {{-- <button type="button" class="btn btn-block btn-outline-primary">Primary</button> --}}
+          <i class="far"></i>
+          <span class="badge navbar-badge"></span>
+        </a>
+      </li>
+
       <li class="nav-item">
         <a class="nav-link" href="#" role="button">
           <i class="fas"></i>
