@@ -30,7 +30,7 @@
 
               <div class="form bg-light" style="width: 80%; border-radius: 5px; border: 10px; padding: 20px;">
                 <a href="/adminhome" class="btn btn-close" style="float: right;"></a>
-                <h3 class="">Tambahkan Artikel</h3>
+                <h3 class="">Edit Artikel</h3>
                 <br>
                 <form class="form">
                   @csrf

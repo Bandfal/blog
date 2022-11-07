@@ -64,3 +64,11 @@ Route::get('/tags', function () {
 Route::get('/tambah', function () {
     return view('tambah-artikel');
 });
+
+Route::get('/edit', function () {
+    return view('edit');
+});
+
+Route::get('/isi-blog', function () {
+    return view('contoh-isi-blog');
+});

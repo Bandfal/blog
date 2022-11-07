@@ -23,7 +23,7 @@
       </div><!-- /.container-fluid -->
     </div>
 
-    <a href="">
+    <a href="/isi-blog">
       <div class="btn bg-primary mb-3" style="text-decoration: none; text-align: justify">
           <h4 class="">Lorem ipsum</h4>
           <hr>
@@ -32,7 +32,7 @@
       </div>
       </div>
     </a>
-    <a href="">
+    <a href="#">
       <div class="btn bg-primary mb-3" style="text-decoration: none; text-align: justify">
         <h4 class="">Lorem ipsum</h4>
         <hr>
@@ -41,7 +41,7 @@
         </div>
       </div>
     </a>
-    <a href="">
+    <a href="#">
       <div class="btn bg-primary mb-3" style="text-decoration: none; text-align: justify">
         <h4 class="">Lorem ipsum</h4>
         <hr>
@@ -50,7 +50,7 @@
         </div>
       </div>
     </a>
-    <a href="">
+    <a href="#">
       <div class="btn bg-primary mb-3" style="text-decoration: none; text-align: justify">
         <h4 class="">Lorem ipsum</h4>
         <hr>
