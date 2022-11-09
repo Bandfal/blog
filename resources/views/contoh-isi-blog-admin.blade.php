@@ -26,6 +26,7 @@
     <div class="content-blog m-3">
         <div class="blog-header">
           <a href="/edit" class="btn btn-primary" style="float: right;">Edit</a>
+          <a href="" class="btn btn-danger" style="float: right;">Delete</a>
           <h4>Lorem Ipsum</h4>
         </div>
         <br>
