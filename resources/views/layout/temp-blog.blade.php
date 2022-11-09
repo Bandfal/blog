@@ -69,14 +69,14 @@
         </a>
       </li>
       <!-- Notifications Dropdown Menu -->
-      <li class="nav-item dropdown">
+      {{-- <li class="nav-item dropdown">
         <a class="nav-link btn btn-block btn-outline-primary mx-2" data-toggle="dropdown" href="#">
           Logout
-          {{-- <button type="button" class="btn btn-block btn-outline-primary">Primary</button> --}}
+          <button type="button" class="btn btn-block btn-outline-primary">Primary</button>
           <i class="far"></i>
           <span class="badge navbar-badge"></span>
         </a>
-      </li>
+      </li> --}}
       <li class="nav-item">
         <a class="nav-link" href="#" role="button">
           <i class="fas"></i>
@@ -192,6 +192,15 @@
                   </a>
                 </li>
               </ul>
+          </li>
+          <li class="nav-item">
+            <a href="/home" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Logout
+                <i class="right fas"></i>
+              </p>
+            </a>
           </li>
         </ul>
       </nav>

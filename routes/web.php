@@ -72,3 +72,7 @@ Route::get('/edit', function () {
 Route::get('/isi-blog', function () {
     return view('contoh-isi-blog');
 });
+
+Route::get('/login', function () {
+    return view('loginform');
+});
