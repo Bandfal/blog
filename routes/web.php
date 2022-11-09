@@ -70,7 +70,11 @@ Route::get('/edit', function () {
 });
 
 Route::get('/isi-blog', function () {
-    return view('contoh-isi-blog');
+    return view('contoh-isi-blog-user');
+});
+
+Route::get('/isi-blog-admin', function () {
+    return view('contoh-isi-blog-admin');
 });
 
 Route::get('/login', function () {

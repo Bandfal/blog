@@ -23,7 +23,7 @@
       </div><!-- /.container-fluid -->
     </div>
 
-    <a href="/isi-blog">
+    <a href="/isi-blog-admin">
       <div class="btn bg-primary mb-3" style="text-decoration: none; text-align: justify">
           <h4 class="">Lorem ipsum</h4>
           <hr>

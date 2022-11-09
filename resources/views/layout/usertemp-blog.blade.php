@@ -59,14 +59,14 @@
         </div>
       </li>
 
-      {{-- <li class="nav-item">
-        <a class="nav-link btn btn-block btn-outline-primary mx-2" data-toggle="dropdown" href="/login">
+      <li class="nav-item">
+        <a class="nav-link btn btn-block btn-outline-primary mx-2" href="/login">
           Login
-          <button type="button" class="btn btn-block btn-outline-primary">Primary</button> 
+          {{-- <button type="button" class="btn btn-block btn-outline-primary">Primary</button>  --}}
           <i class="far"></i>
           <span class="badge navbar-badge"></span>
         </a>
-      </li> --}}
+      </li>
 
       <li class="nav-item">
         <a class="nav-link" href="#" role="button">
@@ -194,7 +194,7 @@
                 </li>
               </ul>
           </li>
-          <li class="nav-item">
+          {{-- <li class="nav-item">
             <a href="/login" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
@@ -202,7 +202,7 @@
                 <i class="right fas"></i>
               </p>
             </a>
-          </li>
+          </li> --}}
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
