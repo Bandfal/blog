@@ -61,6 +61,10 @@ Route::get('/tags', function () {
     return view('tags');
 });
 
+Route::get('/tags-admin', function () {
+    return view('tags-admin');
+});
+
 Route::get('/tambah', function () {
     return view('tambah-artikel');
 });

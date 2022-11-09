@@ -117,8 +117,8 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-item menu-open">
-            <a href="/adminhome" class="nav-link active">
+          <li class="nav-item">
+            <a href="/adminhome" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Home
@@ -127,7 +127,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/tags" class="nav-link">
+            <a href="/tags-admin" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Tags 
